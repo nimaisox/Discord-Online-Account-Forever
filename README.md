@@ -1,4 +1,8 @@
-# Discord-Online-Account-Forever
+## 💠 Discord-Online-Account-Forever
 Discord Online Account Forever
 
-<img src="image/1E.jpg" alt="Discord" width="500" height="600">
+## 📸 Tutorial Token Discord
+
+<div align="left"><img src="/image/1E.png"></div>
+<div align="center"><img src="/image/2E.png"></div>
+<div align="right"><img src="/image/3E.png"></div>
