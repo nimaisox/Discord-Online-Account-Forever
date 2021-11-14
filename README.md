@@ -3,11 +3,11 @@ Discord Online Account Forever
 
 ## 📸 Tutorial Token Discord
 
+**NEVER SHARE YOUR TOKEN**
+
 <div align="Discord"><img src="/image/1E.png"></div>
 <div align="Forever"><img src="/image/2E.png"></div>
 <div align="Account"><img src="/image/3E.png"></div>
-
-**NEVER SHARE YOUR TOKEN**
 
 ## LINK
 🧿 Replit : [Here](https://replit.com)
