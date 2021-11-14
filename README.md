@@ -7,6 +7,7 @@ Discord Online Account Forever
 <div align="Forever"><img src="/image/2E.png"></div>
 <div align="Account"><img src="/image/3E.png"></div>
 
+**NEVER SHARE YOUR TOKEN**
 
 ## LINK
 🧿 Replit : [Here](https://replit.com)
