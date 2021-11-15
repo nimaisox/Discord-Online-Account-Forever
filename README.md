@@ -16,7 +16,7 @@ Discord Online Account Forever
 
 [![Run on Repl.it](https://repl.it/badge/github/nimaisox/Discord-Online-Account-Forever)](https://repl.it/github/nimaisox/Discord-Online-Account-Forever)
 
-## How Run
-REPLIT
+## How Run Replit
+
 1. ``npm i``
 2. ``run replit``
