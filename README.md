@@ -9,9 +9,13 @@ Discord Online Account Forever
 <div align="Forever"><img src="/image/2E.png"></div>
 <div align="Account"><img src="/image/3E.png"></div>
 
-## LINK
+## Installation Replit
 🧿 Replit : [Here](https://replit.com)
 
 🌀 UptimeRobot : [Here](https://uptimerobot.com)
 
 [![Run on Repl.it](https://repl.it/badge/github/nimaisox/Discord-Online-Account-Forever)](https://repl.it/github/nimaisox/Discord-Online-Account-Forever)
+
+##How Run
+1. npm i
+2. run replit
